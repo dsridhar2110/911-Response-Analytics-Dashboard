@@ -129,6 +129,3 @@ For a quick overview, use this README; for depth and narrative, refer to the rep
 └── README.md
 ```
 
----
-
-*Data Exploration & Visualisation project — structured for clarity and recruiter-friendly navigation.*

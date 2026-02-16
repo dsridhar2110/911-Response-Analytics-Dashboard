@@ -1,0 +1,13 @@
+# R session history
+.Rhistory
+
+# R environment / session files
+.RData
+.Ruserdata/
+
+# mac / windows junk
+.DS_Store
+Thumbs.db
+
+# Optional: if you have large local data folders
+data/
